@@ -1,6 +1,6 @@
 # Hello there! <img src="hand-wave.gif" alt="hand waving animation" width="30px">
 
-I'm **Yogesh**. I am currently learning **_React_** and **_NextJS_**. In my spare time, I love trying out interesting baking recipes.
+I'm **Yogesh**. I am currently learning and exploring **_NextJS_**. In my spare time, I love trying out interesting baking recipes.
 
 If you would like to get in touch, you can reach me on [Twitter](https://twitter.com/ys3728).
 
